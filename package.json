@@ -1,0 +1,13 @@
+{
+  "name": "mia-bot",
+  "version": "0.1.0",
+  "description": "Mia Bot",
+  "main": "app.js",
+  "author": "Hao Luo",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.8.1",
+    "node-fetch": "^1.6.3",
+    "restify": "^4.3.0"
+  }
+}
